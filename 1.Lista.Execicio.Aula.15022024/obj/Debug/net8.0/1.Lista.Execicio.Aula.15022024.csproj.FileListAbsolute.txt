@@ -1,0 +1,14 @@
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\bin\Debug\net8.0\1.Lista.Execicio.Aula.15022024.exe
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\bin\Debug\net8.0\1.Lista.Execicio.Aula.15022024.deps.json
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\bin\Debug\net8.0\1.Lista.Execicio.Aula.15022024.runtimeconfig.json
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\bin\Debug\net8.0\1.Lista.Execicio.Aula.15022024.dll
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\bin\Debug\net8.0\1.Lista.Execicio.Aula.15022024.pdb
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\obj\Debug\net8.0\1.Lista.Execicio.Aula.15022024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\obj\Debug\net8.0\1.Lista.Execicio.Aula.15022024.AssemblyInfoInputs.cache
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\obj\Debug\net8.0\1.Lista.Execicio.Aula.15022024.AssemblyInfo.cs
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\obj\Debug\net8.0\1.Lista.Execicio.Aula.15022024.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\obj\Debug\net8.0\1.Lista.Execicio.Aula.15022024.dll
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\obj\Debug\net8.0\refint\1.Lista.Execicio.Aula.15022024.dll
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\obj\Debug\net8.0\1.Lista.Execicio.Aula.15022024.pdb
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\obj\Debug\net8.0\1.Lista.Execicio.Aula.15022024.genruntimeconfig.cache
+C:\Users\Caio\Desktop\c#\1.Lista.Execicio.Aula.15022024\1.Lista.Execicio.Aula.15022024\obj\Debug\net8.0\ref\1.Lista.Execicio.Aula.15022024.dll
